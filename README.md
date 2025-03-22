@@ -6,7 +6,7 @@ This project is a Laravel-based Job Board API that provides job listings with fi
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/job-board-api.git
+   git clone https://github.com/omnia4/Job-Board.git
    cd job-board-api
    ```
 
