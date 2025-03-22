@@ -65,4 +65,4 @@ The API will be available at `http://127.0.0.1:8000`
 
 ## Postman Collection
 You can import the Postman collection from the following link:
-[Download Postman Collection](Job Board.postman_collection.json)
+[Download Postman Collection](Job_Board.postman_collection.json)
